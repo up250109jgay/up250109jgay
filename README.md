@@ -1,4 +1,5 @@
-## ola esta es mi cuenta de git :D
+## ola, esta es mi cuenta de git :D
+#####soy estudiante de mecatronica y me gusta escuchar musica :p
 
 <!--
 **up250109jgay/up250109jgay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
